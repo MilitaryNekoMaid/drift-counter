@@ -7,7 +7,7 @@ Payout = {
 
 Logging = {
 	Enable = true, -- Enables discord logging.
-	Webhook = "https://discord.com/api/webhooks/993663551539519539/iGa5mOQqjVXkrz3Phnfwtl8jgZwxJXNOWpM-tME2oQOq0kDYDL9fvFReZGrylH9oZNiL", -- Discord webhook url.
+	Webhook = "webhook_url", -- Discord webhook url.
 },
 
 Notification = {
